@@ -46,7 +46,8 @@ To use the tax calculator:
 Input the gross income, extra income, age group, and total deductions.
 Click the submit button to calculate the overall income and display the result.
 If any input is invalid, error messages will be shown to guide the user on how to correct the inputs.
-![tex1](https://github.com/Ranu2023/tex-calculator.github.io/assets/139743443/8ee9d0d6-1c10-4c03-90e3-8a709d212cfa)
-form
+
 ![tex2](https://github.com/Ranu2023/tex-calculator.github.io/assets/139743443/e27e209b-645f-4bf2-9026-e556f37bf211)
+form
+![tex1](https://github.com/Ranu2023/tex-calculator.github.io/assets/139743443/8ee9d0d6-1c10-4c03-90e3-8a709d212cfa)
 result
